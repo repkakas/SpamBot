@@ -17,7 +17,7 @@ class Config(object):
     API_ID = 123456  # integer value, dont use ""
     API_HASH = "GETSOMEHELP"
     TOKEN = "OTA4Mjc0Njg2NzA0NjM1OTI0.YYzWuA.17dhtTKk72ZKpQyjDqETmnxGM8Y"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 792109647  # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_ID = 903686515186622495  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     MASTER_NAME = "Pikachu"
     LOGS = (
         -1001549421474
